@@ -22,7 +22,7 @@
     transition: all 1.5s;
 }
 .paper{
-    height: 99%;
+    height: 100%;
     width: 100%;
     border: 2px solid #e2e2e2;
     opacity: 0;
