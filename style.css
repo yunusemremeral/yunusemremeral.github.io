@@ -1,0 +1,36 @@
+.to50{
+    height: 50% !important;
+}
+.to45{
+    height: 45% !important;
+}
+.opa1{
+    opacity: 1 !important;
+}
+.rt-img{
+    position: absolute;
+    right: 0px;
+    height: 0%;
+    transition: all 1.5s;
+}
+.lb-img{
+    position: absolute;
+    left: 0px;
+    bottom:0px;
+    height: 0%;
+    transition: all 1.5s;
+}
+.paper{
+    height: 99%;
+    border: 2px solid #e2e2e2;
+    opacity: 0;
+    transition: 3s;
+}
+.goTo{
+    width: 40%;
+    height: 3%;
+    position: absolute;
+    top: 68%;
+    left: 30%;
+    cursor: pointer;
+}
