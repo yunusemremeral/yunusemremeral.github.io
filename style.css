@@ -100,12 +100,12 @@ body{
 
 }
 .letter .eucalyptu{
-    margin-top: 45%;
-    height: 20% !important;
+    margin-top: 20%;
+    height: 30% !important;
 }
 .letter .greeting span{
-    font-size: 6rem;
-    line-height: 3rem;
+    font-size: 7rem;
+    line-height: 3.2rem;
 }
 .letter .date{
     font-size: 1.15rem;
