@@ -1,12 +1,31 @@
 <html>
     <head>
-        <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-        <script>
-           
-            </script>
-        <link rel="stylesheet" href="style.css">
+       <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <div class="letter" id="letter">
+            <div class="mouse_scroll">
+                <div class="mouse">
+                    <div class="wheel"></div>
+                </div>
+                <div>
+                    <span class="m_scroll_arrows unu"></span>
+                    <span class="m_scroll_arrows doi"></span>
+                    <span class="m_scroll_arrows trei"></span>
+                </div>
+            </div>
+            <div class="eucalyptu">
+            </div>
+            <div class="greeting letter-info-color">
+                <span>Irem</span>
+                <span>Emre</span>
+            </div>
+            <div class="date letter-info-color">
+                <span>23</span>
+                <span>07</span>
+                <span>23</span>
+            </div>
+        </div>
         <div class="wrapper">
             <div class="eucalyptu">
             </div>
@@ -43,7 +62,35 @@
                 </div>
             </div>
         </div>
+       
     </body>
 </html>
 
 
+<script type="text/javascript">
+    
+var letter = document.getElementById("letter");
+
+var startX;
+var startY;
+
+letter.addEventListener("touchstart", touchStart, false);
+letter.addEventListener("touchmove", touchMove, false);
+
+function touchStart(event) {
+  var touch = event.touches[0];
+  startX = touch.clientX;
+  startY = touch.clientY;
+}
+
+function touchMove(event) {
+  if (!startX || !startY) {
+    return;
+  }
+
+  document.getElementById('letter').classList.add('swipe-down');
+
+  event.preventDefault();
+}
+
+ </script>
