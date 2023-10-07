@@ -1,0 +1,192 @@
+{
+  "status": "SUCCESS",
+  "requestId": "000001862bae6e97-d1898f03",
+  "message": {
+    "code": "TK-0000",
+    "description": "Request Processed Successfully."
+  },
+  "data": {
+    "Airports": [
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "SANTİAGO DE COMPOSTELA",
+        "Code": "SCQ",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "42.880447",
+          "longitude": "-8.546303"
+        },
+        "Country": "İSPANYA",
+        "Region": {
+          "code": "EU"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "NEW YORK",
+        "Code": "JFK",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "40.6413",
+          "longitude": "-73.7781"
+        },
+        "Country": "ABD",
+        "Region": {
+          "code": "NA"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "PARIS",
+        "Code": "CDG",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "49.0097",
+          "longitude": "2.5479"
+        },
+        "Country": "FRANSA",
+        "Region": {
+          "code": "EU"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "DUBAI",
+        "Code": "DXB",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "25.2532",
+          "longitude": "55.3657"
+        },
+        "Country": "BAE",
+        "Region": {
+          "code": "ME"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "HONG KONG",
+        "Code": "HKG",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "22.3080",
+          "longitude": "113.9185"
+        },
+        "Country": "ÇİN",
+        "Region": {
+          "code": "AS"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "LONDRA",
+        "Code": "LHR",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "51.4700",
+          "longitude": "-0.4543"
+        },
+        "Country": "BİRLEŞİK KRALLIK",
+        "Region": {
+          "code": "EU"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "TOKYO",
+        "Code": "HND",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "35.5539",
+          "longitude": "139.7811"
+        },
+        "Country": "JAPONYA",
+        "Region": {
+          "code": "AS"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "İSTANBUL",
+        "Code": "IST",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "40.9772",
+          "longitude": "28.8106"
+        },
+        "Country": "TÜRKİYE",
+        "Region": {
+          "code": "EU"
+        }
+      },
+      {
+        "IsSPA": false,
+        "validForStarAwardTicket": true,
+        "validForAwardTicket": true,
+        "IsSPAArrival": false,
+        "HasComfort": false,
+        "City": "PEKİN",
+        "Code": "PEK",
+        "IsWebsAgent": true,
+        "IsDomestic": false,
+        "portType": "AIRPORT",
+        "Coordinate": {
+          "latitude": "40.0801",
+          "longitude": "116.5840"
+        },
+        "Country": "ÇİN",
+        "Region": {
+          "code": "AS"
+        }
+      } 
+    ]
+  }
+}
