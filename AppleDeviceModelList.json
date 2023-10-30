@@ -181,8 +181,8 @@
     "Watch6,16": "Apple Watch Series 8 41mm case (GPS+Cellular)",
     "Watch6,17": "Apple Watch Series 8 45mm case (GPS+Cellular)",
     "Watch6,18": "Apple Watch Ultra",
-    "arm64": "iPhone Simulator",
-    "i386": "iPhone Simulator",
-    "x86_64": "iPhone Simulator"
+    "arm64": "iPhone Test Simulator",
+    "i386": "iPhone Test Simulator",
+    "x86_64": "iPhone Test Simulator"
   }
 }
