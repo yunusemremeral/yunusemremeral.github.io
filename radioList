@@ -1,0 +1,15 @@
+{
+  "radioList": [{
+    "name": "Alem FM",
+    "link": "https://turkmedya.radyotvonline.net/alemfmaac?/;stream.mp3",
+    "icon": "https://media.giphy.com/avatars/alemfm/JBnuJVfQAhJ4.png"
+  },{
+    "name": "Radyo 45'lik",
+    "link": "https://stream.radyo45lik.com:4545/stream",
+    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/45lik-radyo-fm.jpg"
+  },{
+    "name": "Slow Türk",
+    "link": "https://radyo.duhnet.tv/ak_dtvh_slowturk?/;stream.mp3",
+    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg"
+  }]
+}
