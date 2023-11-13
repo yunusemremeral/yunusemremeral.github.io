@@ -44,6 +44,21 @@
           "icon": "https://www.canliradyodinle.fm/wp-content/uploads/efkar-fm.jpg"
         }
       ]
+    },
+    {
+      "type": "Rap-Rock",
+      "radioList": [
+        {
+          "name": "Best Rap",
+          "link": "https://radyodinle1.turkhosted.com/yayin?uri=hepsibest.radyotvonline.com/stream/518/stream?/&tkn=J9rlJcVtsmFHzCUAl3R52g&tms=1700035508",
+          "icon": "https://www.canliradyodinle.fm/wp-content/uploads/best-rap.jpg"
+        },
+        {
+          "name": "Rap Home",
+          "link": "https://moondigitaledge.radyotvonline.net/raphome/playlist.m3u8?listeningSessionID=65104936326178a0_4350552_glEDymXh__0000001CaQ6&downloadSessionID=0",
+          "icon": "https://www.canliradyodinle.fm/wp-content/uploads/rap-home.jpg"
+        }
+      ]
     }
   ]
 }
