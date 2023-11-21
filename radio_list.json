@@ -1,112 +1,507 @@
 {
     "stationObj": [
         {
-            "type": "Pop",
+            "type": "Slow",
             "radioList": [
                 {
-                    "name": "Alem FM",
-                    "link": "https://turkmedya.radyotvonline.net/alemfmaac?/;stream.mp3",
-                    "icon": "https://media.giphy.com/avatars/alemfm/JBnuJVfQAhJ4.png"
+                    "name": "Best Slow",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=hepsibest.radyotvonline.com/stream/513/stream?/&tkn=b7fWZIOLo3jA3GIzSOK6RQ&tms=1700678257",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-best-slow-dinle.jpg"
                 },
                 {
-                    "name": "Ankara Radyo Banko",
-                    "link": "https://stream.netradyom.com/listen/radyobanko/radio.mp3/;stream.mp3",
-                    "icon": "https://static.mytuner.mobi/media/tvos_radios/taQQYVB6KU.png"
+                    "name": "Joy Türk",
+                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/;",
+                    "icon": "https://mediacdns.karnaval.com/media/station_media/4/logos/meta_image.png?v=111023073431"
                 },
                 {
-                    "name": "Başka Radyo",
-                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC007_SO1/;stream.mp3",
-                    "icon": "https://mediacdns.karnaval.com/media/station_media/75/logos/meta_image.png?v=080518102047"
+                    "name": "Joy Türk Akustik",
+                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC004_SO1_SC?/;",
+                    "icon": "https://mediacdns.karnaval.com/media/station_media/9/logos/meta_image.png?v=071118034152"
                 },
                 {
-                    "name": "Best FM",
-                    "link": "http://46.20.7.126/bestfmmp3",
-                    "icon": "https://online-radyo.net/sites/default/files/radio/logos/logo-best-fm.jpg"
+                    "name": "Kafa Radyo",
+                    "link": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg"
                 },
                 {
-                    "name": "Diva FM",
-                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC015_SO1_SC?/;stream.mp3",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/diva-fm.jpg"
+                    "name": "Karma Türk Slow",
+                    "link": "https://yayin.radyomadyo.com:8004/stream",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/slow-karma-turk-dinle.jpg"
                 },
                 {
-                    "name": "Fenomen Türk",
-                    "link": "https://live.radyofenomen.com/fenomenturk/128/icecast.audio",
-                    "icon": "https://www.radyofenomen.com/i/logo_site_40.png?v=276"
+                    "name": "Number One Türk Slow",
+                    "link": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8",
+                    "icon": "https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_TRslow.png"
                 },
                 {
-                    "name": "Gençlik Radyosu",
-                    "link": "http://radyogenclik.com:9900/;",
-                    "icon": "https://i1.sndcdn.com/artworks-LRLeV6OcRF5y12FB-aQhXkQ-t240x240.jpg"
+                    "name": "Pal Slow",
+                    "link": "http://shoutcast.radyogrup.com:2020/;",
+                    "icon": "https://play-lh.googleusercontent.com/Zt1m0KESz6g3N4LERbhw-243bef8T_btHrIg7KQ6zn_YY5V5pRkZq0tcCNzadyY8Ufg=w526-h296-rw"
                 },
                 {
-                    "name": "Hit Radyo",
-                    "link": "https://hitradyo.radyotvonline.net/hitradyo?/;stream.mp3",
-                    "icon": "https://www.hitradyo.com.tr/HIT%20RADIO%20BEYAZ.jpg"
+                    "name": "Power XL Fm",
+                    "link": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/power-xl-dinle.jpg"
                 },
                 {
-                    "name": "İstanbul FM",
-                    "link": "https://yayin.istanbulfm.com.tr/istanbulfm?",
-                    "icon": "https://www.istanbulfm.com.tr/assets/images/logo-footer-296x172.png"
+                    "name": "PowerTürk Akustik",
+                    "link": "https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8",
+                    "icon": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png?v=4"
+                },
+                {
+                    "name": "PowerTürk Slow",
+                    "link": "https://listen.powerapp.com.tr/powerturkslow/abr/playlist.m3u8",
+                    "icon": "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4"
+                },
+                {
+                    "name": "Radyo 34 İstanbul",
+                    "link": "http://yayin2.canliyayin.org:7424/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-34.jpg"
+                },
+                {
+                    "name": "Radyo Romantik Türk",
+                    "link": "http://radyo.yayin.com.tr:6042/;",
+                    "icon": "https://online-radyo.net/sites/default/files/styles/og_image/public/radio/logos/logo-romantik-turk.jpg?itok=zV6eZMl_"
+                },
+                {
+                    "name": "Romantik Ses Isparta",
+                    "link": "https://stream.radyosfer.com/listen/romantik_ses_isparta/stream",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/romantik-ses-isparta-1.jpg"
+                },
+                {
+                    "name": "Romantik Ses Sakarya",
+                    "link": "https://stream.radyosfer.com/listen/romantik_ses_sakarya/stream",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/romantik-ses-sakarya-dinle.jpg"
+                },
+                {
+                    "name": "Slow 7",
+                    "link": "https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/slow-7.jpg"
+                },
+                {
+                    "name": "Slow Home",
+                    "link": "https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8",
+                    "icon": "https://ik.imagekit.io/eywz9hvpg/radyohome/media/station/16/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=47acef&tr=w-1000%3A%2Cbg-47acef&v=060520043704"
+                },
+                {
+                    "name": "Slow Türk",
+                    "link": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+                    "icon": "https://yt3.googleusercontent.com/b-eTgHzrQ-04YZfLvqKe-JMdMCWeShcULyaPwnzSYbhj4Zf8solOUB3q-kxpLdLzP5XCa5GayA=s900-c-k-c0x00ffffff-no-rj"
                 }
             ]
         },
         {
-            "type": "Arabesk",
+            "type": "Türk Halk Müziği",
             "radioList": [
                 {
-                    "name": "Kral FM",
-                    "link": "http://46.20.3.204/;",
-                    "icon": "https://i.ytimg.com/vi/A49bKX8gb-8/maxresdefault.jpg"
+                    "name": "Adana Radyo Güney",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=sunucu2.radyolarburada.com:8250/&tkn=wuk9rTj21RaT0Qz25vlu4A&tms=1700680119",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-guney-adana.jpg"
                 },
                 {
-                    "name": "Number One Türk Damar",
-                    "link": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8",
-                    "icon": "https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png"
+                    "name": "Avrasya Türk 107.1 Ankara",
+                    "link": "https://sslyayin.netyayin.net:10909/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/avrasya-turk-dinle.jpg"
                 },
                 {
-                    "name": "Radyo Arabesk",
-                    "link": "https://yayin.radyoarabesk.com.tr:8000/stream",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-arabesk.jpg"
+                    "name": "Batı Radyo",
+                    "link": "https://sslyayin.netyayin.net:10902/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/bati-radyo.jpg"
                 },
                 {
-                    "name": "Radyo 7 – Müslüm, Ferdi, Orhan",
-                    "link": "https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-ferdi-muslum-orhan-dinle.jpg"
+                    "name": "Best Kına",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=hepsibest.radyotvonline.com/stream/517/stream?/&tkn=t242NONOn6KeivT_jjYT7Q&tms=1700654171",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-best-kina-dinle.jpg"
                 },
                 {
-                    "name": "Arabesk Radyo",
-                    "link": "https://yayin.radyoarabesk.com.tr:8000/stream",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/arabesk-radyo.jpg"
+                    "name": "Cem Radyo",
+                    "link": "https://yayin2.canliyayin.org:10924/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/cem-radyo.jpg"
                 },
                 {
-                    "name": "Aşk FM",
-                    "link": "http://yayin.asymedya.com:8020/1;",
-                    "icon": "https://play-lh.googleusercontent.com/YE9ft-8OngPdk7_yZnNbM6E8X-zhul19Sf_juKiweQCtmfwJEQt4NjS1XV7RfMwRLV4=w600-h300-pc0xffffff-pd"
+                    "name": "Derya FM",
+                    "link": "https://fmradiohub.in/play?url=http://nonstopkonya.canliyayinda.com:9898/;",
+                    "icon": "https://static.mytuner.mobi/media/tvos_radios/3CWZAtWpYs.png"
                 },
                 {
-                    "name": "Baba Radyo 105.6",
-                    "link": "http://37.247.98.7/;",
-                    "icon": "https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png"
+                    "name": "Elazığ Mavi Radyo",
+                    "link": "https://yayin.turkhosted.com/elazigmaviradyo/stream",
+                    "icon": "https://www.elazigmaviradyo.com/img/profile.png"
                 },
                 {
-                    "name": "Bor FM",
-                    "link": "https://sssx.radyosfer.com/borfm/stream?/;stream.mp3",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/bor-fm.jpg"
+                    "name": "Erzincan Radyo 2000",
+                    "link": "https://radyo.yayindakiler.com:3030/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-2000-dinle.jpg"
                 },
                 {
-                    "name": "Efkâr FM",
-                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1_SC?/;",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/efkar-fm.jpg"
+                    "name": "Erzincan Radyo Cem",
+                    "link": "https://erzincan.80.yayin.com.tr/stream/1/?icy=http/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-cem-erzincan.jpg"
                 },
                 {
-                    "name": "İmbat FM",
-                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=38.96.148.39:8788/&tkn=NA466Cc_-AiXnb42cRL1Ug&tms=1700090191",
-                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/imbat-fm-dinle.jpg"
+                    "name": "Kocaeli Tempo FM",
+                    "link": "https://yayin1.canlitv.day:8012/stream?/;stream.mp3",
+                    "icon": "https://images.keepone.net/6062-2020-04-04.png"
+                },
+                {
+                    "name": "Konya FM",
+                    "link": "http://212.175.65.102:8001/live",
+                    "icon": "https://onlineradyo.biz/img/onl-rsm/konya-fm.jpg"
+                },
+                {
+                    "name": "Muhteşem Dörtlü Radyosu",
+                    "link": "https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-muhtesem-dortlu-dinle.jpg"
+                },
+                {
+                    "name": "Pal Doğa",
+                    "link": "http://shoutcast.radyogrup.com:1040/;",
+                    "icon": "https://ik.imagekit.io/eywz9hvpg/radyohome/media/station/57/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=0b4d2f&tr=w-1000%3A%2Cbg-0b4d2f&v=140121111651"
+                },
+                {
+                    "name": "Radyo 7 Ankara Havaları",
+                    "link": "https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-ankara-havalari-dinle.jpg"
+                },
+                {
+                    "name": "Radyo 7 Türkü",
+                    "link": "https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-turku-dinle.jpg"
+                },
+                {
+                    "name": "Radyo Ekin",
+                    "link": "https://yayin.turkhosted.com:6006/stream?/;stream.mp3",
+                    "icon": "https://yt3.googleusercontent.com/ytc/APkrFKY6hLAsd1jvYwrAELo_Ffa57IzCgWQeTi56OVFv=s900-c-k-c0x00ffffff-no-rj"
+                },
+                {
+                    "name": "Radyo Gönül FM",
+                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC020_SO1_SC?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-gonul-fm-dinle.jpg"
+                },
+                {
+                    "name": "Radyo Harman FM",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=37.247.100.101/stream?/&tkn=mnpME-lO0zYRvlWr5S4GoQ&tms=1700679859",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-harman-fm.jpg"
+                },
+                {
+                    "name": "Radyo Manavgat",
+                    "link": "http://sunucu.radyodinle.com:8355/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-manavgat.jpg"
+                },
+                {
+                    "name": "Radyo Ostim",
+                    "link": "https://stream.netradyom.com/radio/8010/radio.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/ostim-radyo.jpg"
+                },
+                {
+                    "name": "Radyo Türkülerle Türkiye",
+                    "link": "https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8",
+                    "icon": "https://onlineradyo.biz/img/onl-rsm/konya-fm.jpg"
+                },
+                {
+                    "name": "Sancak FM",
+                    "link": "https://radyo.yayin.com.tr:5916/stream?/;stream.mp3",
+                    "icon": "https://www.onlineradyodinle.com.tr/kanal/sancak-fm.png"
+                },
+                {
+                    "name": "Tempo Türk Eskişehir",
+                    "link": "https://ozelip547.yayintescil.com:9856/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/tempo-turk-eskisehir-100x100.jpg"
+                },
+                {
+                    "name": "Türkü Radyo",
+                    "link": "http://radyo.turkuradyo.net:4591/;",
+                    "icon": "https://play-lh.googleusercontent.com/0bo2ixTD7kmrNNe9LOEexyOSRQBQM0Qp1b2-zIXG0P90CQtszpjReqUL7-imZHOM8RvU"
+                },
+                {
+                    "name": "Yön Radyo",
+                    "link": "https://stream.radyolarburada.com/radio/8020/yonradyo",
+                    "icon": "https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-radyo1-1.png"
                 }
             ]
         },
         {
-            "type": "Rap-Rock",
+            "type": "Türk Sanat Müziği",
+            "radioList": [
+                {
+                    "name": "Genç Radyo",
+                    "link": "http://dijimedya.radyotvonline.net/gncradyo",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/genc-radyo.png"
+                },
+                {
+                    "name": "Kiss Musiki",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=dijimedya.radyotvonline.net/radyomusiki?/&tkn=NTvrtdDoMhmPpv8hgoiuOw&tms=1700681713",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/kiss-musiki-dinle.jpg"
+                },
+                {
+                    "name": "Maziden Bir Demet",
+                    "link": "http://37.247.98.8/stream/24/",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/maziden-bir-demet.jpg"
+                },
+                {
+                    "name": "Pal Alaturka",
+                    "link": "http://shoutcast.radyogrup.com:3050/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/pal-alaturka.jpg"
+                },
+                {
+                    "name": "Polis Radyosu TSM",
+                    "link": "https://m.egm.gov.tr:8095/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/polis-radyosu-turk-sanat-muzigi.jpg"
+                },
+                {
+                    "name": "Radyo 7 Tsm",
+                    "link": "https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-tsm.jpg"
+                },
+                {
+                    "name": "Radyo Ahenk",
+                    "link": "http://dijimedya.radyotvonline.net/gncradyo",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-ahenk.jpg"
+                },
+                {
+                    "name": "Radyo Alaturka",
+                    "link": "https://yayin.jumboserver.net/stream/alaturkash",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-alaturka-dinle.png"
+                },
+                {
+                    "name": "Radyo Han Kayseri",
+                    "link": "https://sssx.radyosfer.com/radyohan/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-han.jpg"
+                },
+                {
+                    "name": "Radyo Kordelya",
+                    "link": "http://38.96.148.39:8646/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-kordelya.jpg"
+                },
+                {
+                    "name": "Uludağ Fm 91.7",
+                    "link": "https://stream.radyodinle.stream/radio/8070/stream?/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/uludagfm.jpg"
+                },
+                {
+                    "name": "Üsküdar Musiki Cemiyeti Radyosu",
+                    "link": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/Playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/umc-radyo.png"
+                }
+            ]
+        },
+        {
+            "type": "İslami",
+            "radioList": [
+                {
+                    "name": "Arkadaş FM",
+                    "link": "https://radyo.yayindakiler.com:4134/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/isparta-arkadas-fm.jpg"
+                },
+                {
+                    "name": "Bayram FM",
+                    "link": "https://sslyayin.netyayin.net/3442/stream/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/bayram-fm-100x100.jpg"
+                },
+                {
+                    "name": "Berat FM",
+                    "link": "https://beratfm.80.yayin.com.tr/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/berat-fm.jpg"
+                },
+                {
+                    "name": "Bizim İller Radyo",
+                    "link": "https://radyo.yayindakiler.com:4078/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/bizim-iller-radyo.jpg"
+                },
+                {
+                    "name": "Bizim Radyo",
+                    "link": "https://ip132.ozelip.com:7017/stream?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/bizim-radyo-istanbul.jpg"
+                },
+                {
+                    "name": "Çorum Çağrı FM",
+                    "link": "https://sssx.radyosfer.com/9398/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/cagri-fm-corum.jpg"
+                },
+                {
+                    "name": "Davet Radyo",
+                    "link": "https://stream.radiojar.com/ggu0fd6qu2wtv?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/davet-radyo.jpg"
+                },
+                {
+                    "name": "Diyanet Kur’an Radyosu",
+                    "link": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/kuran-radyo.jpg"
+                },
+                {
+                    "name": "Diyanet Radyo",
+                    "link": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg"
+                },
+                {
+                    "name": "Dolunay FM",
+                    "link": "https://yayin2.canliyayin.org:10955/;stream/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/dolunay-fm.jpg"
+                },
+                {
+                    "name": "Dost Fm",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=yayin.dostfm.com:8920/&tkn=vnAQM0oRxcr_iqaO0sLomQ&tms=1700678525",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/dost-fm-1.jpg"
+                },
+                {
+                    "name": "Enderun FM",
+                    "link": "https://yayin2.canliyayin.org:10996/;",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/enderun-fm.jpg"
+                },
+                {
+                    "name": "Erkam Radyo",
+                    "link": "https://api-tv5.yayin.com.tr:8002/mp3?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/erkam-radyo.jpg"
+                },
+                {
+                    "name": "Furkan Radyo Kayseri",
+                    "link": "https://radyo.yayindakiler.com:6191/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/furkan-radyo-dinle.jpg"
+                },
+                {
+                    "name": "Gonca FM",
+                    "link": "https://sslyayin.netyayin.net/8912/stream/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/gonca-fm.jpg"
+                },
+                {
+                    "name": "Hak Radyo",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:1060/&tkn=O3ljpUcvxQE4nuI0dF2Q-A&tms=1700677770",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/hak-radyo.jpg"
+                },
+                {
+                    "name": "Kocaeli Radyo Gül",
+                    "link": "https://yayin2.canliyayin.org:10989/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-gul.jpg"
+                },
+                {
+                    "name": "Konya İsra FM",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=yayin1.canliyayin.org:8210/&tkn=VMmhMrLh1LqEBZiPJD6srg&tms=1700683020",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/isra-fm.jpg"
+                },
+                {
+                    "name": "Lalegül FM",
+                    "link": "https://icecast.netmedya.net/lalegulfm",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/lalegul-fm.jpg"
+                },
+                {
+                    "name": "Mesaj Fm",
+                    "link": "https://yayin1.canlitv.day:8010/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/mesaj-fm.jpg"
+                },
+                {
+                    "name": "Moral Fm",
+                    "link": "https://stream-51.zeno.fm/0cfiqwdkobavv?zs=RptTdDEHQ2Wej62cArILjQ/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-moral-fm.jpg"
+                },
+                {
+                    "name": "Nur FM",
+                    "link": "https://sssx.radyosfer.com/nurfm/stream?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-nur-fm-malatya.jpg"
+                },
+                {
+                    "name": "Pal Mina",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:3070/&tkn=-KDd3tBSUmMyP7NSye35yg&tms=1700668490",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/pal-mina.jpg"
+                },
+                {
+                    "name": "Semerkand Radyo",
+                    "link": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8?TOKEN=70fc48a4724db0d45b149814d161367c",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/semerkand-radyo.jpg"
+                },
+                {
+                    "name": "TGRT FM",
+                    "link": "https://nminhgrts.mediatriple.net/tgrtfm.aac?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/tgrtfm.jpg"
+                }
+            ]
+        },
+        {
+            "type": "Haber & Spor",
+            "radioList": [
+                {
+                    "name": "Bloomberg HT Radyo",
+                    "link": "https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/Bloomberg-Ht-Radyo-100x100.jpg"
+                },
+                {
+                    "name": "Habertürk Radyo",
+                    "link": "https://haberturkradyo.radyotvonline.net/haberturkradyo?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/haber-turk-radyo.jpg"
+                },
+                {
+                    "name": "Lig Radyo",
+                    "link": "https://ligradyo.radyotvonline.net/ligradyo",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/lig-radyo.jpg"
+                },
+                {
+                    "name": "Ntv Radyo",
+                    "link": "https://ssldyg.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8 ",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg"
+                },
+                {
+                    "name": "NTV Spor Radyo",
+                    "link": "https://ssldyg.radyotvonline.com/smil/smil:ntvspor.smil/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/ntv-spor-radyo.jpg"
+                },
+                {
+                    "name": "Radyo CNN Türk",
+                    "link": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/cnn-turk-dinle.jpg"
+                },
+                {
+                    "name": "Radyo Fenerbahçe",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=91.232.174.18:8000/Stream?/&tkn=WZ6Vwp7e-nTpwDEZkJtEug&tms=1700673232",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-fenerbahce.jpg"
+                },
+                {
+                    "name": "Radyo Gol",
+                    "link": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg"
+                },
+                {
+                    "name": "Radyo Spor",
+                    "link": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-spor.jpg"
+                },
+                {
+                    "name": "Radyo Trafik",
+                    "link": "https://moondigitaledge.radyotvonline.net/radyotrafikmarmara/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-canli.jpg"
+                },
+                {
+                    "name": "Samsun Haber Radyo",
+                    "link": "https://sslyayin.radyoyayini.com/8014/stream?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/samsun-haber-radyo.jpg"
+                },
+                {
+                    "name": "ST Endüstri Radyo",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=31.210.157.108:9898/stream?/&tkn=Q0D_RELEGXtKKFMVypUaRw&tms=1700665767",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/st-endustri-radyo.jpg"
+                },
+                {
+                    "name": "Sun Radyo",
+                    "link": "https://tr.socialsmart.tv/sunradyo/bant1/icecast.audio?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/sun-radyo.jpg"
+                },
+                {
+                    "name": "TGRT FM",
+                    "link": "https://nminhgrts.mediatriple.net/tgrtfm.aac?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/tgrtfm.jpg"
+                },
+                {
+                    "name": "Ülke Radyo",
+                    "link": "https://moondigitaledge2.radyotvonline.net/ulketvradyo/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/ulke-radyo.jpg"
+                },
+                {
+                    "name": "Ulusal Radyo",
+                    "link": "https://stream.guventechnology.com:2020/stream/ulusalradyo?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/ulusal-radyo.jpg"
+                }
+            ]
+        },
+        {
+            "type": "Yabancı",
             "radioList": [
                 {
                     "name": "Best Rap",
@@ -117,6 +512,71 @@
                     "name": "Fenomen Türkçe Rap",
                     "link": "https://live.radyofenomen.com/fenomenturkrap/128/icecast.audio",
                     "icon": "https://www.canliradyodinle.fm/wp-content/uploads/fenomen-turkce-rap-dinle.jpg"
+                }
+            ]
+        },
+        {
+            "type": "Sanal",
+            "radioList": [
+                {
+                    "name": "Best Rap",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=hepsibest.radyotvonline.com/stream/518/stream?/&tkn=VqjOoDM9oYNENt6fZg90vg&tms=1700068482",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/best-rap.jpg"
+                },
+                {
+                    "name": "Fenomen Türkçe Rap",
+                    "link": "https://live.radyofenomen.com/fenomenturkrap/128/icecast.audio",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/fenomen-turkce-rap-dinle.jpg"
+                }
+            ]
+        },
+        {
+            "type": "Klasik",
+            "radioList": [
+                {
+                    "name": "Açık Radyo",
+                    "link": "https://stream.34bit.net/ar.mp3?",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/acik-radyo.jpg"
+                },
+                {
+                    "name": "Borusan Klasik",
+                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK_SC?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/borusan-klasik.jpg"
+                },
+                {
+                    "name": "İTÜ Radyosu Klasik",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=160.75.86.29:8097/&tkn=kcnhj2ids2gG114hbayzVg&tms=1700677858",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/itu-radyosu-klasik.jpg"
+                },
+                {
+                    "name": "Klasik Home",
+                    "link": "https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/klasik-home.jpg"
+                },
+                {
+                    "name": "NRK Klasik",
+                    "link": "https://nrk-klassisk.akamaized.net/42/0/hls/nrk_klassisk/playlist.m3u8?bw_low=16&bw_high=160",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/nrk-klassisk.jpg"
+                },
+                {
+                    "name": "Number 1 Classic",
+                    "link": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/number1-classic.jpg"
+                },
+                {
+                    "name": "Radio Swiss Classic",
+                    "link": "https://radyodinle1.turkhosted.com/yayin?uri=stream.srg-ssr.ch/m/rsc_de/mp3_128?/&tkn=BqRO2MAw2xOMqk0NkUAsfQ&tms=1700666295",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radio-swiss-classic.png"
+                },
+                {
+                    "name": "Radyo Klasik",
+                    "link": "https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK_SC?/;stream.mp3",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-klasik-muzik.jpg"
+                },
+                {
+                    "name": "Radyo Voyage",
+                    "link": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8",
+                    "icon": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-voyage-dinle.jpg"
                 }
             ]
         }
