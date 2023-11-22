@@ -1,0 +1,29 @@
+Gizlilik Politikası
+
+Bu uygulama, kullanıcı gizliliğine saygı göstermeyi taahhüt eder. Aşağıda, bu uygulama tarafından toplanan, işlenen ve kullanılan bilgilerle ilgili politikamızı bulacaksınız.
+
+Toplanan Bilgiler
+Bu uygulama, kullanıcılar hakkında herhangi bir kişisel bilgi toplamaz.
+
+Bilgi Kullanımı
+Eğer herhangi bir kişisel bilgi toplanırsa, bu bilgiler sadece uygulamanın işlevselliğini artırmak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılacaktır.
+
+Bilgi Paylaşımı
+Toplanan bilgiler, hiçbir koşulda üçüncü taraflarla paylaşılmayacaktır.
+
+Push Notification ve Radyo Frekans Önerisi
+Bu uygulama, kullanıcıya özel push notification'lar ve radyo frekans önerileri sunmak için cihazın işletim sistemine özel kimlik bilgilerini (örneğin, reklam kimliği) kullanabilir. Ancak, bu bilgiler hiçbir zaman üçüncü taraflarla paylaşılmayacaktır.
+
+Güvenlik
+Bu uygulama, topladığı veya işlediği bilgilerin güvenliğini sağlamak için gerekli önlemleri alacaktır.
+
+Gizlilik Seçenekleri
+Kullanıcılar, uygulamayı kullanırken toplanan bilgilerle ilgili olarak herhangi bir kontrol seçeneğine sahip olmayacaklardır, çünkü uygulama hiçbir kişisel bilgi toplamayacaktır.
+
+Değişiklikler
+Gizlilik politikamızda değişiklik yapma hakkını saklı tutarız. Değişiklikler olduğunda, kullanıcıları bilgilendirmek amacıyla uygulama içinde duyuru yapabiliriz.
+
+İletişim Bilgileri
+Bu gizlilik politikası ile ilgili sorularınız veya endişeleriniz varsa, lütfen yunusemremeral.cs@gmail.com adresinden bizimle iletişime geçin.
+
+Bu gizlilik politikası 22.11.2023 tarihinde güncellenmiştir.
