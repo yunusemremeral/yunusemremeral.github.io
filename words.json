@@ -1,9 +1,10 @@
 [
+  {"question": "Leonardo da Vinci'nin ünlü tablosu, Mona _____.", "answer": "LISA", "isShow": false},
+  {"question": "Türkiye'nin en kalabalık enee kalabalık en kalabalık en kalabalık şehri _____.", "answer": "ISTANBUL", "isShow": false},
   {"question": "Türkiye'nin başkenti _____.", "answer": "ANKARA", "isShow": false},
   {"question": "Dünyanın en uzun nehri _____.", "answer": "NIL", "isShow": false},
   {"question": "Ay'ın rengi _____.", "answer": "GRI", "isShow": false},
   {"question": "En büyük gezegen _____.", "answer": "JUPITER", "isShow": false},
-  {"question": "Türkiye'nin en kalabalık şehri _____.", "answer": "ISTANBUL", "isShow": false},
   {"question": "Leonardo da Vinci'nin ünlü tablosu, Mona _____.", "answer": "LISA", "isShow": false},
   {"question": "Mozart'ın doğduğu ülke _____.", "answer": "AVUSTURYA", "isShow": false}
 ]
