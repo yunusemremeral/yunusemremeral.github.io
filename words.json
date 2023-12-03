@@ -25,12 +25,12 @@
         "isShow": false
     },
     {
-        "question": "Genellikle yeni ismi ile anılan Hatay ilimizin eski ismi nedir?",
+        "question": "Genellikle yeni ismi ile anılan Hatay ilimizin eski ismi nedir? _____",
         "answer": "ANTAKYA",
         "isShow": false
     },
     {
-        "question": "Can kardeş Azerbaycan'ın başkenti ____'dür.",
+        "question": "Can kardeş Azerbaycan'ın başkenti _____'dür.",
         "answer": "BAKÜ",
         "isShow": false
     },
