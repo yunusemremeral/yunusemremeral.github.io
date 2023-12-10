@@ -1,565 +1,678 @@
 [
     {
+        "id": 1,
         "question": "Bir yıl kaç gündür? _____.",
         "answer": "365",
         "isShow": false
     },
     {
+        "id": 2,
         "question": "Türkiye'nin başkenti _____.",
         "answer": "ANKARA",
         "isShow": false
     },
     {
+        "id": 3,
         "question": "Ay'ın rengi _____.",
         "answer": "GRİ",
         "isShow": false
     },
     {
+        "id": 4,
         "question": "En kalabalık ülke _____.",
         "answer": "ÇİN",
         "isShow": false
     },
     {
+        "id": 5,
         "question": "Mevlana Türbesi _____ ilimizde bulunmaktadır.",
         "answer": "KONYA",
         "isShow": false
     },
     {
+        "id": 6,
         "question": "Genellikle yeni ismi ile anılan Hatay ilimizin eski ismi nedir? _____",
         "answer": "ANTAKYA",
         "isShow": false
     },
     {
+        "id": 7,
         "question": "Can kardeş Azerbaycan'ın başkenti _____'dür.",
         "answer": "BAKÜ",
         "isShow": false
     },
     {
+        "id": 8,
         "question": "Dünyanın en uzun nehri _____.",
         "answer": "NİL",
         "isShow": false
     },
     {
+        "id": 9,
         "question": "İnsan vücudundaki en büyük organ _____.",
         "answer": "DERİ",
         "isShow": false
     },
     {
+        "id": 10,
         "question": "Dünyanın en büyük okyanosu _____.",
         "answer": "PASİFİK",
         "isShow": false
     },
     {
+        "id": 11,
         "question": "Dilimize 'bilgisayar' olarak geçen kelimenin İngilizcesi _____.",
         "answer": "COMPUTER",
         "isShow": false
     },
     {
+        "id": 12,
         "question": "Antik Roma'nın ünlü lideri _____.",
         "answer": "SEZAR",
         "isShow": false
     },
     {
+        "id": 13,
         "question": "İki hidrojen bir oksijenden meydana gelir. _____.",
         "answer": "SU",
         "isShow": false
     },
     {
+        "id": 14,
         "question": "Ameliyat yapan hekime denir (operatör) _____.",
         "answer": "CERRAH",
         "isShow": false
     },
     {
+        "id": 15,
         "question": "Türkiye`de petrol ilk defa _____ Dağı eteklerinde çıkarılmıştır.",
         "answer": "RAMAN",
         "isShow": false
     },
     {
+        "id": 16,
         "question": "Suyu oluşturan elementler oksijen ve _____ dir.",
         "answer": "HİDROJEN",
         "isShow": false
     },
     {
+        "id": 17,
         "question": "Osmanlı padişahlarının imza yerine kullandıkları, özel bir biçimi olan sembolleşmiş işarete _____ denir.",
         "answer": "TUĞRA",
         "isShow": false
     },
     {
+        "id": 18,
         "question": "Savaşta gösterdiği kahramanlıktan dolayı Maraş`a _____ ünvanı verilmiştir.",
         "answer": "KAHRAMAN",
         "isShow": false
     },
     {
+        "id": 19,
         "question": "Tıp öğrencilerinin meslek hayatlarına başlamadan önce ettikleri yemin _____ Yemini`dir.",
         "answer": "HİPOKRAT",
         "isShow": false
     },
     {
+        "id": 20,
         "question": "Bir komuta altında bulunan gemi veya uçaklardan oluşan birliğe _____ adı verilmektedir.",
         "answer": "FİLO",
         "isShow": false
     },
     {
+        "id": 21,
         "question": "Osmanlı Devleti`nin ilk başkenti _____ `dır.",
         "answer": "BURSA",
         "isShow": false
     },
     {
+        "id": 22,
         "question": "Baş kırılır fes içinde, kol kırılır _____ içinde.",
         "answer": "YEN",
         "isShow": false
     },
     {
+        "id": 23,
         "question": "Mal canın _____ dır.",
         "answer": "YONGASI",
         "isShow": false
     },
     {
+        "id": 24,
         "question": "İslam inancına göre yaratılış gerçeğine aykırı bulunduğu gerekçesi ile Matrix`in gösteriminin yasaklandığı ülke _____ `dır.",
         "answer": "MISIR",
         "isShow": false
     },
     {
+        "id": 25,
         "question": "Suikaste uğrayarak hayatını kaybeden Diyarbakır eski Emniyet Müdürü _____ Okkan `dır.",
         "answer": "GAFFAR",
         "isShow": false
     },
     {
+        "id": 26,
         "question": "Mısır`ın para birimi _____ dır.",
         "answer": "LİRA",
         "isShow": false
     },
     {
+        "id": 27,
         "question": "Yeryüzünde _____'ları aynı olan noktaların yerel saatleri de her zaman aynı olur.",
         "answer": "BOYLAM",
         "isShow": false
     },
     {
+        "id": 28,
         "question": "Ilk bilgisayarın adı _____ `tır.",
         "answer": "ENIAC",
         "isShow": false
     },
     {
+        "id": 29,
         "question": "Bir şiirde anlamca birbirine uygun kelimelerin kullanılmasına _____ denir.",
         "answer": "TENASÜP",
         "isShow": false
     },
     {
+        "id": 30,
         "question": "Çöllerde rüzgarın etkisiyle oluşan kum tepeciklerine _____ adı verilir.",
         "answer": "BARKAN",
         "isShow": false
     },
     {
+        "id": 31,
         "question": "Çin`in başkenti _____ `dir.",
         "answer": "PEKİN",
         "isShow": false
     },
     {
+        "id": 32,
         "question": "Hacim olarak en büyük gezegen _____ `dir.",
         "answer": "JÜPİTER",
         "isShow": false
     },
     {
+        "id": 33,
         "question": "At üretilen çiftliğe _____ denir.",
         "answer": "HARA",
         "isShow": false
     },
     {
+        "id": 34,
         "question": "Kenan Evren Türkiye Cumhuriyeti`nin _____ . cumhurbaşkanıdır.",
         "answer": "YEDİNCİ",
         "isShow": false
     },
     {
+        "id": 35,
         "question": "\"Hafiyesi Mahmut\", \"Köstebek Hüsnü\", Utanmaz Adam\" gibi tiplemelerin çizeri _____ Aral `dır.",
         "answer": "OĞUZ",
         "isShow": false
     },
     {
+        "id": 36,
         "question": " _____ belirli bir konu üzerinde, belirli grupların kendilerine göre doğru olan düşüncelerini belli kurallar dahilinde tartışmalarıdır.",
         "answer": "MÜNAZARA",
         "isShow": false
     },
     {
+        "id": 37,
         "question": "Yıldız Dağları`nın diğer adı _____ Dağları`dır.",
         "answer": "ISTRANCA",
         "isShow": false
     },
     {
+        "id": 38,
         "question": "Sıfır rakamını kullanan ilk matematik alimi _____ `dir.",
         "answer": "HAREZMİ",
         "isShow": false
     },
     {
+        "id": 39,
         "question": "Flütte _____ adet delik bulunur.",
         "answer": "SEKİZ",
         "isShow": false
     },
     {
+        "id": 40,
         "question": "Seri üretimi yapılan ilk bilgisayar _____ `tır.",
         "answer": "UNIVAC",
         "isShow": false
     },
     {
+        "id": 41,
         "question": "Kaba ve çirkin sözler kullanılarak konuşulan dile _____ dili denir.",
         "answer": "KAYIŞ",
         "isShow": false
     },
     {
+        "id": 42,
         "question": "Asitane _____ `un eski isimlerinden biridir.",
         "answer": "İSTANBUL",
         "isShow": false
     },
     {
+        "id": 42,
         "question": "Matematikte yan yatmış 8 şeklindeki işaret _____ anlamında kullanılır.",
         "answer": "SONSUZ",
         "isShow": false
     },
     {
+        "id": 43,
         "question": "Üzerleri noktalarla işaretli dikdörtgen biçiminde 28 taşla masa üzerinde oynanan oyun _____ dur.",
         "answer": "DOMİNO",
         "isShow": false
     },
     {
+        "id": 44,
         "question": "Eski Türklerde ölüler için yapılan törenlere _____ adı verilir.",
         "answer": "YUĞ",
         "isShow": false
     },
     {
+        "id": 45,
         "question": "Yük gemisine _____ denir.",
         "answer": "ŞİLEP",
         "isShow": false
     },
     {
+        "id": 46,
         "question": "Atatürk`ün muhafız alayı komutanı Topal _____ `dır.",
         "answer": "OSMAN",
         "isShow": false
     },
     {
+        "id": 47,
         "question": "Nargile içiminde kullanılan tütünün adı _____ dir.",
         "answer": "TÖMBEKİ",
         "isShow": false
     },
     {
+        "id": 48,
         "question": "Ünlü bilimadamı Kopernik`in ülkesi _____ `dır.",
         "answer": "POLONYA",
         "isShow": false
     },
     {
+        "id": 49,
         "question": "Kanada`nın başkenti _____ `dır.",
         "answer": "OTTAWA",
         "isShow": false
     },
     {
+        "id": 50,
         "question": "Deniz ile bağlantısı olan sığ su alanlarına _____ adı verilir.",
         "answer": "LAGÜN",
         "isShow": false
     },
     {
+        "id": 51,
         "question": "Mevlüdün her bir bölümüne _____ denir.",
         "answer": "BAHİR",
         "isShow": false
     },
     {
+        "id": 52,
         "question": "Rumeli hisarını hangi padişah yaptırmıştır?",
         "answer": "FATİH",
         "isShow": false
     },
     {
+        "id": 53,
         "question": "Gregor Samsa karakterinin yer aldığı roman hangisidir?",
         "answer": "DÖNÜŞÜM",
         "isShow": false
     },
     {
+        "id": 54,
         "question": "Hücre yapısında yer alan organelin adı nedir?",
         "answer": "LİZOZOM",
         "isShow": false
     },
     {
+        "id": 55,
         "question": "Aspirinin ilk kez çıkış yılı nedir?",
         "answer": "1899",
         "isShow": false
     },
     {
+        "id": 56,
         "question": "Tiyatroda kendi kendine konuşma olarak bilinen türün adı nedir?",
         "answer": "MONOLOG",
         "isShow": false
     },
     {
+        "id": 57,
         "question": "Geminin baş kısmının adı nedir?",
         "answer": "PRUVA",
         "isShow": false
     },
     {
+        "id": 58,
         "question": "Sahurun bitimi, orucun başlama vaktidir. ______",
         "answer": "İMSAK",
         "isShow": false
     },
     {
+        "id": 59,
         "question": "İlk defa dünya haritasını kim çizmiştir?",
         "answer": "PİRİREİS",
         "isShow": false
     },
     {
+        "id": 60,
         "question": "İkinci Dünya Savaşında hangi ülkeye atom bombası atılmıştır",
         "answer": "JAPONYA",
         "isShow": false
     },
     {
+        "id": 61,
         "question": "Futbol maçlarında oynanan topun FİFA kurallarına göre ağırlığı ____ gramdır?",
         "answer": "452",
         "isShow": false
     },
     {
+        "id": 62,
         "question": "Yetmişli yılların sonunda İslam’ı seçen ünlü pop sanatçısı, _____ İSLAM",
         "answer": "YUSUF",
         "isShow": false
     },
     {
+        "id": 63,
         "question": "Avustralya adasının en tanınmış hayvanının ismi nedir?",
         "answer": "KANGURU",
         "isShow": false
     },
     {
+        "id": 64,
         "question": "Türkiye’nin en büyük gölü hangisidir?",
         "answer": "VANGÖLÜ",
         "isShow": false
     },
     {
+        "id": 65,
         "question": "Türkiye’nin en yüksek dağı hangisidir?",
         "answer": "AĞRIDAĞI",
         "isShow": false
     },
     {
+        "id": 66,
         "question": "Toros Dağları Türkiye’nin hangi bölgesindedir?",
         "answer": "AKDENİZ",
         "isShow": false
     },
     {
+        "id": 67,
         "question": "İslami yılbaşı ______ ayı ile başlar?",
         "answer": "MUHARREM",
         "isShow": false
     },
     {
+        "id": 68,
         "question": "Eskiden İslam Dünyasının ilim beşiği olan Kufe şehri hangi devlet sınırları içindedir?",
         "answer": "IRAK",
         "isShow": false
     },
     {
+        "id": 69,
         "question": "Atletizmde mesafe olarak en uzun koşuya _______ ismi verilir.",
         "answer": "MARATON",
         "isShow": false
     },
     {
+        "id": 70,
         "question": "İki takım arasında, top ve sopalar yardımıyla at üzerinde oynanan oyunun adı nedir?",
         "answer": "POLO",
         "isShow": false
     },
     {
+        "id": 71,
         "question": "Dünya kupasında en fazla şampiyonluk yaşayan futbolcu kimdir?",
         "answer": "PELE",
         "isShow": false
     },
     {
+        "id": 72,
         "question": "Dünya kupasını ilk kez kim kazanmıştır?",
         "answer": "URUGUAY",
         "isShow": false
     },
     {
+        "id": 73,
         "question": "En büyük gezegen _____.",
         "answer": "JÜPİTER",
         "isShow": false
     },
     {
+        "id": 74,
         "question": "Güneş sistemindeki en büyük ikinci gezegen _____.",
         "answer": "SATÜRN",
         "isShow": false
     },
     {
+        "id": 75,
         "question": "Kuzey Amerika'nın en yüksek dağı _____.",
         "answer": "DENALİ",
         "isShow": false
     },
     {
+        "id": 76,
         "question": "İnsan vücudundaki en küçük kemik _____.",
         "answer": "STAPES",
         "isShow": false
     },
     {
+        "id": 77,
         "question": "Türk mutfağının vazgeçilmez lezzeti _____.",
         "answer": "KEBAP",
         "isShow": false
     },
     {
+        "id": 78,
         "question": "Güney Amerika'nın en kalabalık ülkesi _____.",
         "answer": "BREZİLYA",
         "isShow": false
     },
     {
+        "id": 79,
         "question": "Güneş sistemindeki en büyük dördüncü gezegen _____.",
         "answer": "URANÜS",
         "isShow": false
     },
     {
+        "id": 80,
         "question": "Dünya'nın en büyük gölü _____.",
         "answer": "KASPİ",
         "isShow": false
     },
     {
+        "id": 81,
         "question": "Ünlü fizikçi Albert Einstein'ın doğduğu yer _____.",
         "answer": "ULM",
         "isShow": false
     },
     {
+        "id": 82,
         "question": "Güneş sistemindeki en soğuk gezegen _____.",
         "answer": "URANÜS",
         "isShow": false
     },
     {
+        "id": 83,
         "question": "Ünlü ressam Vincent Van Gogh'un hangi kulağını kesip göndermiştir _____.",
         "answer": "SAĞ",
         "isShow": false
     },
     {
+        "id": 84,
         "question": "Bilgisayarlar için kullanılan bir ölçü birimi _____.",
         "answer": "BYTE",
         "isShow": false
     },
     {
+        "id": 85,
         "question": "Güneş sistemindeki en büyük dördüncü gezegen _____.",
         "answer": "URANÜS",
         "isShow": false
     },
     {
+        "id": 86,
         "question": "Dünya üzerindeki en yüksek dağ _____.",
         "answer": "EVEREST",
         "isShow": false
     },
     {
+        "id": 87,
         "question": "Antik Yunan mitolojisindeki aşk ve güzellik tanrıçası _____.",
         "answer": "AFRODİT",
         "isShow": false
     },
     {
+        "id": 88,
         "question": "Bilgisayar oyunlarında kullanılan bir terim _____.",
         "answer": "FPS",
         "isShow": false
     },
     {
+        "id": 89,
         "question": "Ünlü heykeltıraş Michelangelo'nun en ünlü eseri _____.",
         "answer": "DAVID",
         "isShow": false
     },
     {
+        "id": 90,
         "question": "Ünlü fizikçi Marie Curie'nin doğduğu ülke _____.",
         "answer": "POLONYA",
         "isShow": false
     },
     {
+        "id": 91,
         "question": "Beyazperde üzerinde en çok film çekilen şehir _____.",
         "answer": "NEWYORK",
         "isShow": false
     },
     {
+        "id": 92,
         "question": "Güneş sistemindeki en sıcak gezegen _____.",
         "answer": "VENÜS",
         "isShow": false
     },
     {
+        "id": 93,
         "question": "Dünya üzerindeki en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 94,
         "question": "Dünya'nın en kalabalık ikinci kıtası _____.",
         "answer": "AFRİKA",
         "isShow": false
     },
     {
+        "id": 95,
         "question": "Dünya'nın en büyük ikinci gölü _____.",
         "answer": "VICTORIA",
         "isShow": false
     },
     {
+        "id": 96,
         "question": "Dünya'nın en büyük dördüncü okyanosu _____.",
         "answer": "ARAFURA",
         "isShow": false
     },
     {
+        "id": 97,
         "question": "Dünya üzerindeki en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 98,
         "question": "Dünya'nın en büyük dördüncü okyanosu _____.",
         "answer": "ARAFURA",
         "isShow": false
     },
     {
+        "id": 99,
         "question": "Dünya üzerindeki en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 100,
         "question": "Güneş sistemindeki en büyük dördüncü gezegen _____.",
         "answer": "URANÜS",
         "isShow": false
     },
     {
+        "id": 101,
         "question": "Dünya'nın en kalabalık üçüncü ülkesi _____.",
         "answer": "ABD",
         "isShow": false
     },
     {
+        "id": 102,
         "question": "Dünya'nın en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 103,
         "question": "Dünya'nın en büyük ikinci okyanosu _____.",
         "answer": "HİNT",
         "isShow": false
     },
     {
+        "id": 104,
         "question": "Dünya'nın en büyük dördüncü okyanosu _____.",
         "answer": "ARAFURA",
         "isShow": false
     },
     {
+        "id": 105,
         "question": "Dünya üzerindeki en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 106,
         "question": "Dünya'nın en büyük ikinci gölü _____.",
         "answer": "VICTORIA",
         "isShow": false
     },
     {
+        "id": 107, 
         "question": "Dünya üzerindeki en büyük dördüncü göl _____.",
         "answer": "HURON",
         "isShow": false
     },
     {
+        "id": 108,
         "question": "Güneş sistemindeki en büyük dördüncü gezegen _____.",
         "answer": "URANÜS",
         "isShow": false
     },
     {
+        "id": 109,
         "question": "Güneş sistemindeki en sıcak gezegen _____.",
         "answer": "VENÜS",
         "isShow": false
     },
     {
+        "id": 110,
         "question": "Dünya'nın en büyük dördüncü okyanosu _____.",
         "answer": "ARAFURA",
         "isShow": false
     },
     {
+        "id": 111,
         "question": "Dünya'nın en kalabalık üçüncü ülkesi _____.",
         "answer": "ABD",
         "isShow": false
     },
     {
+        "id": 112,
         "question": "Güneş sistemindeki en küçük gezegen _____.",
         "answer": "PLUTON",
         "isShow": false
