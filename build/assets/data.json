@@ -2,19 +2,6 @@
    "players":{  
       "home":[  
          {  
-            "name":"Pizarro",
-            "asset":"bm-pizarro.jpg",
-            "origin":"Peru",
-            "height":"1.84m",
-            "shirt":"14",
-            "pos":"Forward",
-            "dob":"36",
-            "goals":1,
-            "games":16,
-            "x":110,
-            "y":-190
-         },
-         {  
             "name":"Robben",
             "asset":"bm-robben.png",
             "origin":"Holland",
@@ -24,7 +11,7 @@
             "dob":"32",
             "goals":19,
             "games":30,
-            "x":-110,
+            "x":0,
             "y":-190
          },
          {  
@@ -117,20 +104,7 @@
             "dob":"36",
             "goals":1,
             "games":16,
-            "x":110,
-            "y":-190
-         },
-         {  
-            "name":"Bale",
-            "asset":"rm-bale.jpg",
-            "origin":"Wales",
-            "height":"1.83m",
-            "shirt":"11",
-            "pos":"Midfield",
-            "dob":"26",
-            "goals":19,
-            "games":30,
-            "x":-110,
+            "x":0,
             "y":-190
          },
          {  
