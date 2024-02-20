@@ -2,9 +2,9 @@
    "players":{  
       "home":[  
          {  
-            "name":"Robben",
-            "asset":"bm-robben.png",
-            "origin":"Holland",
+            "name":"Emre",
+            "asset":"t2-emre.jpg",
+            "origin":"Turkey",
             "height":"1.80m",
             "shirt":"10",
             "pos":"Forward",
@@ -15,8 +15,8 @@
             "y":-190
          },
          {  
-            "name":"Rilbery",
-            "asset":"bm-rilbery.jpg",
+            "name":"Cemal",
+            "asset":"t2-cemal.jpg",
             "origin":"France",
             "height":"1.70m",
             "shirt":"7",
@@ -28,8 +28,8 @@
             "y":50
          },
          {  
-            "name":"Schweinsteiger",
-            "asset":"bm-schweinsteiger.jpg",
+            "name":"Kadir",
+            "asset":"t2-kadir.jpg",
             "origin":"Germany",
             "height":"1.87m",
             "shirt":"24",
@@ -41,8 +41,8 @@
             "y":100
          },
          {  
-            "name":"Martinez",
-            "asset":"bm-martinez.jpg",
+            "name":"Ömür",
+            "asset":"t2-omur.jpg",
             "origin":"Spain",
             "height":"1.90m",
             "shirt":"8",
@@ -54,8 +54,8 @@
             "y":50
          },
          {  
-            "name":"Alaba",
-            "asset":"bm-alaba.jpg",
+            "name":"Batuhan",
+            "asset":"t2-batuhan.jpg",
             "origin":"Austria",
             "height":"1.80m",
             "shirt":"27",
@@ -67,8 +67,8 @@
             "y":180
          },
          {  
-            "name":"Lahm",
-            "asset":"bm-lahm.jpg",
+            "name":"Onur",
+            "asset":"t2-onur.jpg",
             "origin":"Germany",
             "height":"1.70",
             "shirt":"21",
@@ -80,8 +80,8 @@
             "y":180
          },
          {  
-            "name":"Neuer",
-            "asset":"bm-neuer.jpg",
+            "name":"Özay",
+            "asset":"t2-ozay.jpg",
             "origin":"Germany",
             "height":"1.93m",
             "shirt":"1",
@@ -95,8 +95,8 @@
       ],
       "away":[  
          {  
-            "name":"Benzema",
-            "asset":"rm-benzema.jpg",
+            "name":"Olcay",
+            "asset":"t1-olcay.jpg",
             "origin":"France",
             "height":"1.87m",
             "shirt":"9",
@@ -108,8 +108,8 @@
             "y":-190
          },
          {  
-            "name":"carvajal",
-            "asset":"rm-carvajal.jpg",
+            "name":"Samet",
+            "asset":"t1-samet.jpg",
             "origin":"Spain",
             "height":"1.70m",
             "shirt":"15",
@@ -121,8 +121,8 @@
             "y":50
          },
          {  
-            "name":"Silva",
-            "asset":"rm-silva.jpg",
+            "name":"Çağlar",
+            "asset":"t1-caglar.jpg",
             "origin":"Brazil",
             "height":"1.87m",
             "shirt":"16",
@@ -134,8 +134,8 @@
             "y":100
          },
          {  
-            "name":"Kroos",
-            "asset":"rm-kroos.jpg",
+            "name":"Umut",
+            "asset":"t1-umut.jpg",
             "origin":"Germany",
             "height":"1.82",
             "shirt":"8",
@@ -147,8 +147,8 @@
             "y":50
          },
          {  
-            "name":"Modric",
-            "asset":"rm-modric.jpg",
+            "name":"Ceyhun",
+            "asset":"t1-ceyhun.jpg",
             "origin":"Croatia",
             "height":"1.74m",
             "shirt":"19",
@@ -160,8 +160,8 @@
             "y":180
          },
          {  
-            "name":"Nacho",
-            "asset":"rm-nacho.jpg",
+            "name":"Arın",
+            "asset":"t1-arin.jpg",
             "origin":"Germany",
             "height":"1.79",
             "shirt":"18",
@@ -173,8 +173,8 @@
             "y":180
          },
          {  
-            "name":"Casillas",
-            "asset":"rm-casillas.jpg",
+            "name":"Çağatay",
+            "asset":"t1-cagatay.jpg",
             "origin":"Spain",
             "height":"1.85m",
             "shirt":"1",
