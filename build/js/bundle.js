@@ -55,7 +55,7 @@
 	var $ = __webpack_require__(6);
 	__webpack_require__(7);
 
-	var ASSET_URL = '/assets/img/';
+	var ASSET_URL = 'https://yunusemremeral.github.io/build/assets/img/';
 
 	var $stage = null;
 	var $world = null;
@@ -475,7 +475,7 @@
 
 	var init = function() {
 
-	    $.getJSON('/assets/data.json', function(_data) {
+	    $.getJSON('https://yunusemremeral.github.io/build/assets/data.json', function(_data) {
 	        data = _data;
 
 	        assignVariables();
