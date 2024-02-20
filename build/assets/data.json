@@ -2,17 +2,17 @@
    "players":{  
       "home":[  
          {  
-            "name":"Emre",
-            "asset":"t2-emre.jpg",
-            "origin":"Turkey",
-            "height":"1.80m",
-            "shirt":"10",
+            "name":"Kadir",
+            "asset":"t2-kadir.jpg",
+            "origin":"Germany",
+            "height":"1.87m",
+            "shirt":"24",
             "pos":"Forward",
-            "dob":"32",
-            "goals":19,
-            "games":30,
+            "dob":"31",
+            "goals":21,
+            "games":3,
             "x":0,
-            "y":-190
+            "y":100
          },
          {  
             "name":"Cemal",
@@ -27,18 +27,18 @@
             "x":150,
             "y":50
          },
-         {  
-            "name":"Kadir",
-            "asset":"t2-kadir.jpg",
-            "origin":"Germany",
-            "height":"1.87m",
-            "shirt":"24",
+                  {  
+            "name":"Emre",
+            "asset":"t2-emre.jpg",
+            "origin":"Turkey",
+            "height":"1.80m",
+            "shirt":"10",
             "pos":"Forward",
-            "dob":"31",
-            "goals":21,
-            "games":3,
+            "dob":"32",
+            "goals":19,
+            "games":30,
             "x":0,
-            "y":100
+            "y":-190
          },
          {  
             "name":"Ömür",
