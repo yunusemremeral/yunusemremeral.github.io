@@ -93,32 +93,6 @@
             "y":180
          },
          {  
-            "name":"Benatia",
-            "asset":"bm-benatia.jpg",
-            "origin":"France",
-            "height":"1.87m",
-            "shirt":"5",
-            "pos":"Defence",
-            "dob":"31",
-            "goals":21,
-            "games":1,
-            "x":100,
-            "y":300
-         },
-         {  
-            "name":"Dante",
-            "asset":"bm-dante.jpg",
-            "origin":"Brazil",
-            "height":"1.87m",
-            "shirt":"4",
-            "pos":"Defence",
-            "dob":"32",
-            "goals":0,
-            "games":34,
-            "x":-100,
-            "y":300
-         },
-         {  
             "name":"Neuer",
             "asset":"bm-neuer.jpg",
             "origin":"Germany",
@@ -223,32 +197,6 @@
             "games":25,
             "x":200,
             "y":180
-         },
-         {  
-            "name":"Ramos",
-            "asset":"rm-ramos.jpg",
-            "origin":"Spain",
-            "height":"1.83m",
-            "shirt":"4",
-            "pos":"Defence",
-            "dob":"31",
-            "goals":21,
-            "games":1,
-            "x":100,
-            "y":300
-         },
-         {  
-            "name":"Pepe",
-            "asset":"rm-pepe.jpg",
-            "origin":"Brazil",
-            "height":"1.88m",
-            "shirt":"3",
-            "pos":"Defence",
-            "dob":"32",
-            "goals":0,
-            "games":34,
-            "x":-100,
-            "y":300
          },
          {  
             "name":"Casillas",
