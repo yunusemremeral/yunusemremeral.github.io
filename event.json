@@ -1,0 +1,19 @@
+{
+  "events": [
+    {
+      "eventName": "Tech Conference 2024",
+      "dateTime": "2024-10-15T09:00:00",
+      "reminder": true
+    },
+    {
+      "eventName": "Product Launch",
+      "dateTime": "2024-11-01T14:30:00",
+      "reminder": false
+    },
+    {
+      "eventName": "Holiday Party",
+      "dateTime": "2024-12-20T18:00:00",
+      "reminder": true
+    }
+  ]
+}
